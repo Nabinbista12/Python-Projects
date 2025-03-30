@@ -1,1 +1,1 @@
-In this file there are 10 project that are made using python.
+In this file there are 9 project that are made using python.
